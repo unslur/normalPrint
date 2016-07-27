@@ -1,0 +1,25 @@
+﻿  ZbraPrinter.cpp
+d:\projectcy\normalprint\normalprint\zbraprinter.cpp(41): warning C4129: “^”: 不可识别的字符转义序列
+d:\projectcy\normalprint\normalprint\zbraprinter.cpp(61): warning C4129: “^”: 不可识别的字符转义序列
+d:\projectcy\normalprint\normalprint\zbraprinter.cpp(14): warning C4101: “buff”: 未引用的局部变量
+d:\projectcy\normalprint\normalprint\zbraprinter.cpp(173): warning C4129: “^”: 不可识别的字符转义序列
+d:\projectcy\normalprint\normalprint\zbraprinter.cpp(195): warning C4129: “^”: 不可识别的字符转义序列
+d:\projectcy\normalprint\normalprint\zbraprinter.cpp(203): warning C4129: “^”: 不可识别的字符转义序列
+d:\projectcy\normalprint\normalprint\zbraprinter.cpp(147): warning C4101: “buff”: 未引用的局部变量
+d:\projectcy\normalprint\normalprint\zbraprinter.cpp(319): warning C4129: “^”: 不可识别的字符转义序列
+d:\projectcy\normalprint\normalprint\zbraprinter.cpp(341): warning C4129: “^”: 不可识别的字符转义序列
+d:\projectcy\normalprint\normalprint\zbraprinter.cpp(286): warning C4101: “buff”: 未引用的局部变量
+  TscPrinter.cpp
+  PskPrinter.cpp
+d:\projectcy\normalprint\normalprint\pskprinter.cpp(584): warning C4101: “e”: 未引用的局部变量
+d:\projectcy\normalprint\normalprint\pskprinter.cpp(656): warning C4101: “e”: 未引用的局部变量
+d:\projectcy\normalprint\normalprint\pskprinter.cpp(741): warning C4101: “e”: 未引用的局部变量
+d:\projectcy\normalprint\normalprint\pskprinter.cpp(821): warning C4101: “e”: 未引用的局部变量
+d:\projectcy\normalprint\normalprint\pskprinter.cpp(892): warning C4101: “e”: 未引用的局部变量
+  norPrint.cpp
+  Funcs.cpp
+d:\projectcy\normalprint\normalprint\funcs.cpp(118): warning C4018: “<=”: 有符号/无符号不匹配
+d:\projectcy\normalprint\normalprint\funcs.cpp(155): warning C4018: “<=”: 有符号/无符号不匹配
+  正在生成代码...
+    正在创建库 D:\projectCy\normalPrint\Debug\normalPrint.lib 和对象 D:\projectCy\normalPrint\Debug\normalPrint.exp
+  normalPrint.vcxproj -> D:\projectCy\normalPrint\Debug\normalPrint.dll

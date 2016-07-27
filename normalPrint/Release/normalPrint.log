@@ -1,0 +1,28 @@
+﻿  Funcs.cpp
+Funcs.cpp(118): warning C4018: “<=”: 有符号/无符号不匹配
+Funcs.cpp(155): warning C4018: “<=”: 有符号/无符号不匹配
+  norPrint.cpp
+  PskPrinter.cpp
+PskPrinter.cpp(584): warning C4101: “e”: 未引用的局部变量
+PskPrinter.cpp(656): warning C4101: “e”: 未引用的局部变量
+PskPrinter.cpp(741): warning C4101: “e”: 未引用的局部变量
+PskPrinter.cpp(821): warning C4101: “e”: 未引用的局部变量
+PskPrinter.cpp(892): warning C4101: “e”: 未引用的局部变量
+  TscPrinter.cpp
+  ZbraPrinter.cpp
+ZbraPrinter.cpp(41): warning C4129: “^”: 不可识别的字符转义序列
+ZbraPrinter.cpp(61): warning C4129: “^”: 不可识别的字符转义序列
+ZbraPrinter.cpp(14): warning C4101: “buff”: 未引用的局部变量
+ZbraPrinter.cpp(173): warning C4129: “^”: 不可识别的字符转义序列
+ZbraPrinter.cpp(195): warning C4129: “^”: 不可识别的字符转义序列
+ZbraPrinter.cpp(203): warning C4129: “^”: 不可识别的字符转义序列
+ZbraPrinter.cpp(147): warning C4101: “buff”: 未引用的局部变量
+ZbraPrinter.cpp(319): warning C4129: “^”: 不可识别的字符转义序列
+ZbraPrinter.cpp(341): warning C4129: “^”: 不可识别的字符转义序列
+ZbraPrinter.cpp(286): warning C4101: “buff”: 未引用的局部变量
+    正在创建库 D:\projectCy\normalPrint\Release\normalPrint.lib 和对象 D:\projectCy\normalPrint\Release\normalPrint.exp
+  正在生成代码
+  All 272 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  normalPrint.vcxproj -> D:\projectCy\normalPrint\Release\normalPrint.dll
+  已复制         1 个文件。
